@@ -36,25 +36,33 @@ The "is this language?" debate lives here. Signals that encode specific referent
 
 Signals that must be learned from conspecifics and vary across populations.
 
+- [[humpback-whale-song]] — ocean-basin-scale consensus song; evolves continuously; the same combination never recurs in 19 years
+- [[sperm-whale-coda-dialects]] *(stub — not yet written)* — clan identity markers; Hersh et al. 2022 PNAS: symbolic marking in non-human cultures
+
 ### Deceptive Signalling
 
 Signals that encode false information, exploiting receiver sensory or cognitive biases.
+
+- [[fork-tailed-drongo-false-alarms]] — mimics alarm calls of meerkats, babblers, raptors to steal food; varies mimicry to prevent habituation; ~25% of diet
+- [[mimic-octopus-dynamic-mimicry]] — up to 18 species mimicked simultaneously via color, shape, and locomotion; context-appropriate selection
 
 ### Cross-Species Communication
 
 Signals directed at and interpreted by members of other species.
 
 - [[diana-monkey-alarm-calls]] — hornbill/Diana monkey mutualistic warning network
+- [[fork-tailed-drongo-false-alarms]] — exploits cross-species alarm-call comprehension for deception
 
 ### Multimodal and Cognitively Striking
 
-Entries that don't fit cleanly into one modality, or that raise deeper questions about animal cognition.
+- [[honeybee-waggle-dance]] — direction + distance encoded in figure-eight; multimodal (visual, acoustic, chemical, electric); most information-dense non-human signal
 
 ## Signal Modality Index
 
-- **Acoustic — vocal:** [[vervet-monkey-alarm-calls]], [[diana-monkey-alarm-calls]], [[black-capped-chickadee-dee-count]], [[prairie-dog-slobodchikoff-calls]]
+- **Acoustic — vocal:** [[vervet-monkey-alarm-calls]], [[diana-monkey-alarm-calls]], [[black-capped-chickadee-dee-count]], [[prairie-dog-slobodchikoff-calls]], [[fork-tailed-drongo-false-alarms]], [[humpback-whale-song]]
 - **Acoustic — non-vocal:**
-- **Visual:**
+- **Visual:** [[mimic-octopus-dynamic-mimicry]]
+- **Multimodal:** [[honeybee-waggle-dance]]
 - **Chemical:**
 - **Tactile / vibrational:**
 - **Electrical:**
@@ -74,4 +82,5 @@ Every entry carries these domain frontmatter fields:
 ## Recently Added
 
 - 2026-05-06: Vault initialized; [[vervet-monkey-alarm-calls]] as pilot entry
-- 2026-05-06: Batch 1 indexed (10 Wikipedia pages, 108 chunks in Supabase); synthesized [[jakob-von-uexkull-umwelt]], [[diana-monkey-alarm-calls]], [[black-capped-chickadee-dee-count]], [[prairie-dog-slobodchikoff-calls]]
+- 2026-05-06: Batch 1 indexed (10 Wikipedia pages, 108 chunks); synthesized [[jakob-von-uexkull-umwelt]], [[diana-monkey-alarm-calls]], [[black-capped-chickadee-dee-count]], [[prairie-dog-slobodchikoff-calls]]
+- 2026-05-06: Batch 2 indexed (15 Wikipedia pages, 227 chunks); synthesized [[humpback-whale-song]], [[fork-tailed-drongo-false-alarms]], [[mimic-octopus-dynamic-mimicry]], [[honeybee-waggle-dance]]
