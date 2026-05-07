@@ -2,7 +2,7 @@
 
 > A YANP-compliant knowledge vault for animal communication, biosemiotics, and the study of signals crossing between perceptual worlds.
 
-Generated: 2026-05-07T03:10:42Z
+Generated: 2026-05-07T04:10:33Z
 Repository: https://github.com/spinchange/umwelt
 Portal: https://spinchange.github.io/umwelt/index.html
 Machine-readable file: https://spinchange.github.io/umwelt/llms.txt
@@ -13,7 +13,7 @@ Umwelt is a satellite knowledge corpus named after Jakob von Uexküll's concept 
 
 ## Current Surface
 
-- Wiki notes: 10
+- Wiki notes: 19
 
 ## Start Here
 
