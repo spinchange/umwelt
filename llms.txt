@@ -1,0 +1,21 @@
+# umwelt
+
+> A YANP-compliant knowledge vault for animal communication, biosemiotics, and the study of signals crossing between perceptual worlds.
+
+Generated: 2026-05-07T02:41:10Z
+Repository: https://github.com/spinchange/umwelt
+Portal: https://spinchange.github.io/umwelt/index.html
+Machine-readable file: https://spinchange.github.io/umwelt/llms.txt
+
+## What This Is
+
+Umwelt is a satellite knowledge corpus named after Jakob von Uexküll's concept of the subjective perceptual world each organism inhabits. It compiles animal communication research into YANP permanent notes, one entry per species-signal pair, with structured frontmatter for cross-modal queries. Shares ingestion infrastructure with the Vulture Nest and Aphelion vaults.
+
+## Current Surface
+
+- Wiki notes: 2
+
+## Start Here
+
+- [Index](https://spinchange.github.io/umwelt/index.html): Primary navigation hub.
+- [Log](https://spinchange.github.io/umwelt/log.html): Session history.
