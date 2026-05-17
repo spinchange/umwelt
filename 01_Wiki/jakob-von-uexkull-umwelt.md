@@ -5,6 +5,7 @@ date: 2026-05-06
 status: active
 aliases: [umwelt theory, umwelt concept, von Uexküll, biosemiotics founding, subjective perceptual world]
 type: permanent
+note_type: conceptual-foundation
 provenance:
   source_record_ids: [4f31617a-1ceb-4c5b-9167-7e7f5fbbba18]
   chunk_ids: [2ebabc30-004d-42ab-9c72-610ef2215d9c, 020782a7-29fa-4afa-b575-dfb6573f9ffa, 7d735e18-49d0-4f4d-ab09-92415ef4f0bb, 35097176-e3f3-49ec-8e22-98b14883dd6a, a3c6ddbc-c5cf-4463-b29a-ed44cc60518e, 5f8a01df-599c-4b88-9622-da46daa4b887, 7fd29918-78c8-49df-a5df-2e24b1d34759]

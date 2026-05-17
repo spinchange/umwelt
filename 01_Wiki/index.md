@@ -31,11 +31,13 @@ The "is this language?" debate lives here. Signals that encode specific referent
 - [[diana-monkey-alarm-calls]] — predator-specific calls; hornbills can discriminate between call types — cross-species referential reception
 - [[black-capped-chickadee-dee-count]] — dee count encodes predator danger level (counter-intuitively: smaller raptor → more dees); nuthatches also decode it
 - [[prairie-dog-slobodchikoff-calls]] — Slobodchikoff's vocabulary hypothesis: size, color, speed encoding; disputed but substantive
+- [[campbells-monkey-alarm-calls]] — krak/hok base calls + "-oo" suffix modifier; Ouattara 2009; strongest case for proto-morphology in non-human communication
 
 ### Cultural Transmission
 
 - [[humpback-whale-song]] — ocean-basin-scale consensus song; evolves continuously; same combination never recurs in 19 years
 - [[orca-pod-dialects]] — pod-specific pulsed call dialects; stable, matrilineally transmitted; "no parallel outside humans" (Ford & Ellis)
+- [[sperm-whale-coda-clicks]] — rhythmic click patterns encoding clan identity; culturally transmitted; sympatric clans maintain distinct repertoires for decades
 - [[chimpanzee-gesture-repertoire]] — ~66 gesture types; consistent across populations; ~30 shared with bonobos; intentional
 
 ### Deceptive Signalling
@@ -59,8 +61,8 @@ The "is this language?" debate lives here. Signals that encode specific referent
 
 ## Signal Modality Index
 
-- **Acoustic — vocal:** [[vervet-monkey-alarm-calls]], [[diana-monkey-alarm-calls]], [[black-capped-chickadee-dee-count]], [[prairie-dog-slobodchikoff-calls]], [[fork-tailed-drongo-false-alarms]], [[humpback-whale-song]], [[orca-pod-dialects]], [[chimpanzee-gesture-repertoire]]
-- **Acoustic — non-vocal:**
+- **Acoustic — vocal:** [[vervet-monkey-alarm-calls]], [[diana-monkey-alarm-calls]], [[black-capped-chickadee-dee-count]], [[prairie-dog-slobodchikoff-calls]], [[campbells-monkey-alarm-calls]], [[fork-tailed-drongo-false-alarms]], [[humpback-whale-song]], [[orca-pod-dialects]], [[chimpanzee-gesture-repertoire]]
+- **Acoustic — non-vocal:** [[sperm-whale-coda-clicks]], [[honeybee-waggle-dance]]
 - **Visual:** [[mimic-octopus-dynamic-mimicry]], [[killdeer-broken-wing-display]], [[common-cuckoo-brood-parasitism]], [[bowerbird-extended-phenotype-display]], [[chimpanzee-gesture-repertoire]], [[mantis-shrimp-polarized-light-signals]], [[cuttlefish-chromatophore-signaling]], [[photuris-firefly-aggressive-mimicry]]
 - **Multimodal:** [[honeybee-waggle-dance]], [[bird-of-paradise-lek-displays]]
 - **Chemical:**
@@ -81,7 +83,8 @@ Every entry carries these domain frontmatter fields:
 
 ## Recently Added
 
-- 2026-05-06: Vault initialized; [[vervet-monkey-alarm-calls]] as pilot entry
+- 2026-05-06: Vault initialized; [[vervet-monkey-alarm-calls]] as pilot referential signalling entry
 - 2026-05-06: Batch 1 indexed (10 Wikipedia pages, 108 chunks); synthesized [[jakob-von-uexkull-umwelt]], [[diana-monkey-alarm-calls]], [[black-capped-chickadee-dee-count]], [[prairie-dog-slobodchikoff-calls]]
 - 2026-05-06: Batch 2 indexed (15 Wikipedia pages, 227 chunks); synthesized [[humpback-whale-song]], [[fork-tailed-drongo-false-alarms]], [[mimic-octopus-dynamic-mimicry]], [[honeybee-waggle-dance]]
 - 2026-05-06: Full synthesis pass — 9 additional notes: [[orca-pod-dialects]], [[chimpanzee-gesture-repertoire]], [[killdeer-broken-wing-display]], [[common-cuckoo-brood-parasitism]], [[cuttlefish-chromatophore-signaling]], [[mantis-shrimp-polarized-light-signals]], [[bowerbird-extended-phenotype-display]], [[bird-of-paradise-lek-displays]], [[photuris-firefly-aggressive-mimicry]]
+- 2026-05-17: Gap fill — [[sperm-whale-coda-clicks]] and [[campbells-monkey-alarm-calls]] (both in original batch manifests, unsynthesized); [[jakob-von-uexkull-umwelt]] marked as conceptual-foundation; log backfilled
